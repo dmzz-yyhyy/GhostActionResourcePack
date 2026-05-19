@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "ghost_action:misc/smoke",
+	"textures": {
+		"0": "ghost_action:item/somke_red",
+		"particle": "ghost_action:item/somke_red"
+	}
+}

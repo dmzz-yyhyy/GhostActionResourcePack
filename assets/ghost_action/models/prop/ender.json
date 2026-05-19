@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ghost_action:item/ender"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, -28],
+			"translation": [0, 0.75, -0.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -28],
+			"translation": [0, 0.75, -0.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"on_shelf": {
+			"translation": [1.25, 0, 0]
+		}
+	}
+}

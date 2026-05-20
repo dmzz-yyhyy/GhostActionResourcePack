@@ -1,0 +1,130 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ender.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/furious.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghost_booster.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghost_rainbow_rifle.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghosty_smoke_bomb.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/grenade.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/minecart.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/pill.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/swift.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE009"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/team_shield.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE00A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghost_armor_piercing_rifle.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE00B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghost_kalashnikov.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE00C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghost_laser.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE00D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghost_pistol.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE00E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghost_reconnaissance_rifle.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE00F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghost_shotgun.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE010"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghost_sniper_rifle.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE011"]
+    },
+    {
+      "type": "bitmap",
+      "file": "ghost_action:font/ghost_walker_rifle.png",
+      "ascent": 12,
+      "height": 16,
+      "chars": ["\uE012"]
+    }
+  ]
+}
